@@ -13,11 +13,11 @@
     "github advisory database"
   ],
   "bugs": {
-    "url": "https://github.com/kunalnagarco/action-cve/issues"
+    "url": "https://github.com/occmundial/action-cve/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kunalnagarco/action-cve.git"
+    "url": "git+https://github.com/occmundial/action-cve.git"
   },
   "license": "MIT",
   "author": "Kunal Nagar <knlnagar@gmail.com>",
