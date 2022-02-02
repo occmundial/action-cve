@@ -1,5 +1,5 @@
 {
-  "name": "@kunalnagarco/action-cve",
+  "name": "@occmundial/action-cve",
   "version": "0.0.0",
   "private": true,
   "description": "Send GitHub vulnerability alerts to multiple platforms",
